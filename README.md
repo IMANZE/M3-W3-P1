@@ -3,3 +3,5 @@
 Attached are mockups to recreate the desktop and mobile layout with the knowledge you have about the grid system of bootstrap. 
 You can create overrides and custom CSS properties to achieve the same effects, colors, positioning.
 Optionally you can create different grid layouts for the small, medium, large breakpoints as well
+
+See final image attached for pictorial view of project
